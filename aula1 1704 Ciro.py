@@ -42,7 +42,7 @@ b = aux
 print("A: ", a)
 print ("B: ", b)
 
-//
+//necessário corrigir alteração
 valfab = float(input("Digite o valor de fábrica: "))
 valdist = float((valfab + (valfab*0,28))
 valimp = float(valfab + (valfab*0,45))
